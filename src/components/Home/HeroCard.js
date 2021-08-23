@@ -45,7 +45,7 @@ export const CodeCard = () => {
         7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this.name = "<b>CronixZero</b>";
       </pre>
       <pre>
-        8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this.codingLanguages = ["<b>JAVA</b>", "<b>JAVASCRIPT</b>"];
+        8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this.codingLanguages = {'{'}"<b>JAVA</b>", "<b>JAVASCRIPT</b>"{'}'};
       </pre>
       <pre>9&nbsp;&nbsp;&nbsp;&nbsp; {'}'}</pre>
       <pre>10&nbsp;&nbsp;{'}'}</pre>
