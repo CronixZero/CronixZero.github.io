@@ -71,7 +71,7 @@ const Home = () => {
                 href="//twitter.com/CronixZero"
               />
               <IconLink
-                label="YouTube"
+                label="youtube"
                 icon={['fab', 'youtube']}
                 href="//www.youtube.com/channel/UCZlhuzs8dAIT559anWA7Ekg"
               />
