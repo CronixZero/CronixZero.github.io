@@ -36,19 +36,19 @@ export const CodeCard = () => {
       <pre>
         1&nbsp;&nbsp;public class <b>CronixZero</b> {'{'}
       </pre>
-      <pre>&nbsp</pre>
-      <pre>private final String name;</pre>
-      <pre>private final String[] codingLanguages;</pre>
-      <pre>&nbsp</pre>
-      <pre>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; public CronixZero() {'{'}</pre>
+      <pre>2&nbsp;</pre>
+      <pre>3&nbsp;&nbsp;&nbsp;&nbsp;private final String name;</pre>
+      <pre>4&nbsp;&nbsp;&nbsp;&nbsp;private final String[] codingLanguages;</pre>
+      <pre>5&nbsp;</pre>
+      <pre>6&nbsp;&nbsp;&nbsp;&nbsp;public CronixZero() {'{'}</pre>
       <pre>
-        3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this.name = "<b>CronixZero</b>";
+        7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this.name = "<b>CronixZero</b>";
       </pre>
       <pre>
-        4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this.codingLanguages = ["<b>JAVA</b>", "<b>JAVASCRIPT</b>"];
+        8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this.codingLanguages = {'{'}"<b>JAVA</b>", "<b>JAVASCRIPT</b>"{'}'};
       </pre>
-      <pre>6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {'}'}</pre>
-      <pre>7&nbsp;&nbsp;{'}'}</pre>
+      <pre>9&nbsp;&nbsp;&nbsp;&nbsp; {'}'}</pre>
+      <pre>10&nbsp;&nbsp;{'}'}</pre>
     </CodeCardWrapper>
   );
 };
