@@ -16,7 +16,7 @@ const ThingsILove = () => (
   <Flex justify="space-between" align="center">
     <Card>
       <CardIcon>
-        <FontAwesomeIcon icon="puzzle-piece" />
+        <i class="fas fa-puzzle-piece"></i>
       </CardIcon>
       <CardTitle>Minecraft Plugins</CardTitle>
       <CardText>
@@ -26,7 +26,7 @@ const ThingsILove = () => (
 
     <Card>
       <CardIcon>
-        <FontAwesomeIcon icon={['fab', 'java']} />
+        <i class="fab fa-java"></i>
       </CardIcon>
       <CardTitle>Java</CardTitle>
       <CardText>
