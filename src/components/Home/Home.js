@@ -70,11 +70,7 @@ const Home = () => {
                 icon={['fab', 'twitter']}
                 href="//twitter.com/CronixZero"
               />
-              <IconLink
-                label="youtube"
-                icon={['fab', 'youtube']}
-                href="//www.youtube.com/channel/UCZlhuzs8dAIT559anWA7Ekg"
-              />
+              <i class="fab fa-youtube" href="//www.youtube.com/channel/UCZlhuzs8dAIT559anWA7Ekg"></i>
             </div>
           </div>
         </div>
