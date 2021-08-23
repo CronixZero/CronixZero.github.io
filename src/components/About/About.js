@@ -15,7 +15,7 @@ const About = () => {
       <SkewBg />
       <AboutInfo>
         <div>
-          <Avatar src="logo.png" />
+          <Avatar src="hfest_avatar_2.jpg" />
         </div>
         <p>
           Hey! Ich bin CronixZero. Ich bin ein Java Developer und setze mich aktuell mit JavaScript auseinander. Aktuell bin ich Moderator auf dem{' '}
