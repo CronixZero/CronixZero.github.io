@@ -6,6 +6,7 @@ export default class HTML extends React.Component {
     return (
       <html lang="en" {...this.props.htmlAttributes}>
         <head>
+          <script src="https://kit.fontawesome.com/66e7ff2069.js" crossorigin="anonymous"></script>
           <meta charSet="utf-8" />
           <meta httpEquiv="x-ua-compatible" content="ie=edge" />
           <meta
